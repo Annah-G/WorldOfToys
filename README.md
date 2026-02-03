@@ -1,1 +1,1 @@
-<img width="1200" height="800" alt="Мир игрушек" src="https://github.com/user-attachments/assets/326af46c-8ec4-45cc-b966-95405c6918ea" />
+<img width="1200" height="800" alt="World of toys" src="https://github.com/user-attachments/assets/a106850b-390a-4e6d-b321-15c77929c8bb" />
