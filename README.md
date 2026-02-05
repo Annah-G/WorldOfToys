@@ -1,1 +1,1 @@
-<img width="773" height="452" alt="Фото-no-bg-preview (carve photos)" src="https://github.com/user-attachments/assets/70f889e8-95f3-4e09-80e2-876c379e667e" />
+<img width="448" height="600" alt="Pigvin png" src="https://github.com/user-attachments/assets/ae905ad8-f7e6-465a-9331-57840df91290" />
