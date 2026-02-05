@@ -1,1 +1,1 @@
-<img width="1200" height="800" alt="World of toys (min)" src="https://github.com/user-attachments/assets/bc4dc7e6-f4de-4157-9103-018ed6b8a05d" />
+<img width="773" height="452" alt="Фото-no-bg-preview (carve photos)" src="https://github.com/user-attachments/assets/70f889e8-95f3-4e09-80e2-876c379e667e" />
